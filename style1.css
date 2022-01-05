@@ -1,0 +1,116 @@
+.formu{
+    border-radius: 10px;
+        background-color: #23a3d4;
+        border-color: #23a3d4;
+        width: 300px;
+        margin: 130px auto;
+        box-shadow: 0px 0px 5px rgba(242,242,242,255); 
+        padding: 20px;
+        padding-top: 40px;
+        padding-bottom: 10px;
+        text-align: center;
+        position:relative;
+}
+
+.pseudo{
+    position: relative;
+    padding-left: 65px;
+}
+
+.mdp{
+    position: relative;
+    padding-left: 65px;
+    
+    
+}
+.mdp2{
+    border-radius: 10px;
+    text-align: center;
+    height: 30px;
+    
+}
+
+.pseudo2{
+    border-radius: 10px;
+    text-align: center;
+    height: 30px;
+}
+
+.email2{
+    border-radius: 10px;
+    text-align: center;
+    height: 30px;
+}
+
+
+.email{
+    position: relative;
+    padding-left: 65px;
+}
+
+h2{
+    color: white;
+    position: relative;
+    bottom: 10px;
+}
+
+table{
+
+    position: relative;
+    bottom: 30px;
+    
+}
+
+.navbar{
+    background-color: #23a3d4;
+    
+}
+
+body{
+    margin:0px;
+}
+
+.logopromeo{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px ;
+}
+
+.Inscription {
+    background:	#0d5574;
+    border-radius: 10px;
+    box-shadow: 		#0d5574 0 10px 20px -10px;
+    color: #FFFFFF;
+    cursor:pointer;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    opacity: 1;
+    outline: 0 solid transparent;
+    padding: 8px 18px;
+    border: 0;
+    
+    
+  }
+
+  .Connexion {
+    background:	#0d5574;
+    border-radius: 10px;
+    box-shadow: 		#0d5574 0 10px 20px -10px;
+    color: #FFFFFF;
+    cursor:pointer;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    opacity: 1;
+    outline: 0 solid transparent;
+    padding: 8px 18px;
+    border: 0;
+    margin-left: 5px;
+  }
+
+.bouton{
+    position: relative;
+    padding-left: 30px;
+}
+
